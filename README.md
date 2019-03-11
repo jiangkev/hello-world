@@ -1,5 +1,2 @@
-# hello-world
-just for learning git 
-
-just for test how to use git to manage your projects
-thanks github for offering this service
+Git is a distributed version system
+Git is free software
